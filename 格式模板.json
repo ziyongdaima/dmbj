@@ -1,0 +1,45 @@
+//XBPQ.jar写法
+
+    {
+      "key": "csp_星辰",
+      "name": "🅱️星辰影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./hccx/星辰影视.json"
+    },
+    //采集写法
+     {
+      "key": "百度资源",
+      "name": "百度｜资源",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "动作片",
+        "科幻片",
+        "恐怖片",
+        "国产动漫",
+        "国产剧",
+        "大陆剧",
+        "韩剧",
+        "大陆综艺",
+      ]
+    },
+    //挂jar写法
+     {
+      "key": "csp_Kuaikan",
+      "name": "💡快看┃直连",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/kuaikan.jar"
+    },
+
