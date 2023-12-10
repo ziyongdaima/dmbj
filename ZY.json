@@ -230,7 +230,7 @@
 "lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "http://111.67.196.181/mtvzb.txt",
+		    "url": "https://ghproxy.net/https://github.com/ziyongdaima/dmbj/raw/main/DMBJ.txt",
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],   
