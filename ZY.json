@@ -123,7 +123,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/Bili短剧xyq.json",
+      "ext": "https://ghproxy.net/https://github.com/ziyongdaima/dmbj/raw/main/json/Bili短剧xyq.json",
       "jar": "./jar/kuaikan.jar"
     },
       {
