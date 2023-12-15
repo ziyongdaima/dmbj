@@ -154,11 +154,11 @@
       "key": "csp_aiqiyi",
       "name": "爱  🍄  追剧",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/奇艺视频.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/奇艺视频.js"
     },
      {
       "key": "csp_优酷",
