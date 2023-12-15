@@ -102,11 +102,11 @@
       "key": "csp_mgtv",
       "name": "芒  🍁  追剧",
       "type": 3,
-      "api": "https://ghproxy.net/https://github.com/ziyongdaima/dmbj/raw/main/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://ghproxy.net/https://github.com/ziyongdaima/dmbj/rae/main/js/芒果视频.js"
+      "ext":"./js/芒果视频.js"
     },
      {
       "key": "532短剧",
@@ -123,8 +123,8 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.net/https://github.com/ziyongdaima/dmbj/raw/main/json/Bili短剧xyq.json",
-      "jar": "./jar/kuaikan.jar"
+      "ext": "./json/Bili短剧xyq.json",
+      "jar": "./jar/xyq.jar"
     },
       {
       "key": "csp_短剧网",
