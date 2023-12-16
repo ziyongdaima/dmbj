@@ -62,6 +62,7 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 卫视频道,#genre#
 
 广东 4 K,http://8.217.90.28:9999/触电.php?id=gdzy
+广东珠江,http://8.217.90.28:9999/触电.php?id=gdzj
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
@@ -153,8 +154,6 @@ IHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600003
 漫威影院,http://mmitv.top/test/douyu.php?id=6140589
 恐怖鬼怪,http://mmitv.top/test/douyu.php?id=1165374
 芊珏影视,http://mmitv.top/test/douyu.php?id=8814650
-国产剧集,http://mmitv.top/test/douyu.php?id=8157860
-国产剧场,http://mmitv.top/test/douyu.php?id=308752
 开心锤锤,http://mmitv.top/test/douyu.php?id=9018297
 开心锤锤,http://43.138.170.29:35455/douyu/9018297
 小品直播,http://mmitv.top/pltv/yy.php?id=1354936198
@@ -214,6 +213,7 @@ IHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600003
 虎牙-电影播放,http://43.138.170.29:35455/huya/11342395
 虎牙-科幻混战,http://43.138.170.29:35455/huya/21059579
 虎牙-老剧轮放,http://43.138.170.29:35455/huya/11352945
+虎牙-永不磨灭的番号,http://mmitv.top/test/douyu.php?id=8157860
 虎牙-都市轮放,http://43.138.170.29:35455/huya/11602041
 虎牙-盗墓奇幻,http://43.138.170.29:35455/huya/21059552
 虎牙-神剧在线,http://43.138.170.29:35455/huya/11352974
