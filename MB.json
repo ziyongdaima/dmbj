@@ -44,41 +44,41 @@
       "key": "csp_aiqiyi",
       "name": "爱  🍄  追剧",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/奇艺视频.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/奇艺视频.js"
     },
      {
       "key": "csp_you酷",
       "name": "优  🎉  追剧",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/you酷视频.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/you酷视频.js"
     },
      {
       "key": "csp_tengyun",
       "name": "腾  🐧  追剧",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/tengxun.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/tengxun.js"
     },
      {
       "key": "csp_mgt",
       "name": "芒  🍁  追剧",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/芒果视频.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/芒果视频.js"
     }
    
    
@@ -128,7 +128,7 @@
 
 
 
-"spider":"./jar/xhkwsvip.jar;md5;c435869db6a928f45df09b736d81f02f",
+"spider":"./jar/DMBJ.jar;md5;c435869db6a928f45df09b736d81f02f",
 
 
 
@@ -138,7 +138,7 @@
 "lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://codeberg.org/13680818147/DMBJ/raw/branch/main/DMBJ.txt",
+		    "url": "https://ghproxy.net/https://github.com/ziyongdaima/dmbj/raw/main/DMBJ.txt",
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],   
