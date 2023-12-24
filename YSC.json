@@ -110,14 +110,14 @@
     },
      {
       "key": "py_huya",
-      "name": "🐯┃虎牙┃[PY]",
+      "name": "虎牙🐯直播",
       "type": 3,
       "api": "py_huya",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./jar/huya.py",
-       "jar": "./jar/main.jar"
+      "jar": "./jar/main.jar"
     },
 
 
