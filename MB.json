@@ -6,9 +6,20 @@
 "sites":[
 
 {"key": "豆瓣","name": "豆瓣推荐","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
-    {
+  {
+      "key": "csp_Kuaikan",
+      "name": "快看💡直连",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/kuaikan.jar"
+    },
+    
+     {
       "key": "量子资源",
-      "name": "量子💜短剧",
+      "name": "量子💜资源",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "playerType": 1,
@@ -17,18 +28,99 @@
       "quickSearch": 1,
       "playurl": "https://lziplayer.com/?url=",
       "categories": [
-        "短剧"
-        
+        "短剧",
+        "动作片",
+        "科幻片",
+        "恐怖片",
+        "国产动漫",
+        "国产剧",
+        "韩剧",
+        "大陆综艺"
       ]
     },
      {
-      "key": "532短剧",
-      "name": "短剧💓视频",
+      "key": "meowtv_49ys",
+      "name": "四九🍓资源",
+      "type": 1,
+      "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": " https://49zyplayerurl.com/?url=",
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "动作片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "喜剧片",
+        "韩国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "台湾剧",
+        "国产动漫",
+        "日本动漫",
+        "日剧"
+      ]
+    },
+
+     {
+      "key": "csp_aiqiyi",
+      "name": "爱  🍄  追剧",
       "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "分类url:https://532kan.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:短剧$23,首页:短剧$16"
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/奇艺视频.js"
     },
      {
+      "key": "csp_优酷",
+      "name": "优  🎉  追剧",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/you酷视频.js"
+    },
+     {
+      "key": "csp_tengyun",
+      "name": "腾  🐧  追剧",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/tengxun.js"
+    },
+     {
+      "key": "csp_mgtv",
+      "name": "芒  🍁  追剧",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"./js/芒果视频.js"
+    },
+
+     {
+      "key": "csp_Bili短剧",
+      "name": "哔哩🐞短剧",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/Bili短剧xyq.json",
+      "jar": "./jar/xyq.jar"
+    },
+      {
       "key": "csp_短剧网",
       "name": "短剧🍊看看",
       "type": 3,
@@ -38,57 +130,54 @@
       "filterable": 1,
        "jar": "./jar/xyq.jar"
     },
+    {
+      "key": "meowtv_ffzy",
+      "name": "非凡💮资源",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "国产动漫",
+        "日韩动漫",
+        "港台动漫",
+        "大陆综艺",
+        "港台综艺"
+      ]
+    },
 
-    
      {
-      "key": "csp_aiqiyi",
-      "name": "爱  🍄  追剧",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
+      "key": "优质资源",
+      "name": "优质🌟资源",
+      "type": 1,
+      "api": "https://api.1080zyku.com/inc/apijson.php",
+      "playerType": 1,
       "searchable": 1,
+      "changeable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/奇艺视频.js"
-    },
-     {
-      "key": "csp_you酷",
-      "name": "优  🎉  追剧",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/you酷视频.js"
-    },
-     {
-      "key": "csp_tengyun",
-      "name": "腾  🐧  追剧",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/tengxun.js"
-    },
-     {
-      "key": "csp_mgt",
-      "name": "芒  🍁  追剧",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/芒果视频.js"
+      "categories": [
+        "动作片",
+        "科幻片",
+        "恐怖片",
+        "动画片",
+        "国产动漫",
+        "日韩动漫",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "大陆综艺",
+        "港台综艺"
+      ]
     }
-   
-   
-
-    
-     
-    
-
-
-
 
 
 
