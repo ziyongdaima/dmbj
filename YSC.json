@@ -116,7 +116,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./jar/huya.py",
+      "ext": "./jar/pyhuya.py",
       "jar": "./jar/main.jar"
     },
 
