@@ -108,6 +108,18 @@
       "filterable": 1,
       "ext":"./js/芒果视频.js"
     },
+     {
+      "key": "py_huya",
+      "name": "🐯┃虎牙┃[PY]",
+      "type": 3,
+      "api": "py_huya",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./jar/huya.py",
+       "jar": "./jar/main.jar"
+    },
+
 
      {
       "key": "csp_Bili短剧",
