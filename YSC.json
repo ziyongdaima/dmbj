@@ -136,11 +136,11 @@
       "key": "csp_短剧网",
       "name": "短剧🍊看看",
       "type": 3,
-      "api": "csp_Duanjuw",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-       "jar": "./jar/xyq.jar"
+      "ext":"./js/短剧网.js"
     },
     {
       "key": "meowtv_ffzy",
