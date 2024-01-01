@@ -120,16 +120,7 @@
       "ext": "./json/Bili短剧xyq.json",
       "jar": "./jar/xyq.jar"
     },
-      {
-      "key": "csp_短剧网",
-      "name": "短剧🍊看看",
-      "type": 3,
-      "api": "csp_Duanjuw",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-       "jar": "./jar/xyq.jar"
-    },
+   
     {
       "key": "meowtv_ffzy",
       "name": "非凡💮资源",
