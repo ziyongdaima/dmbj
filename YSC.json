@@ -111,6 +111,17 @@
       "filterable": 1,
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/芒果视频.js"
     },
+    {
+      "key": "csp_360",
+      "name": "360🐜追剧",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/360影视.js"
+    },
+
      {
       "key": "py_huya",
       "name": "虎牙🐯直播",
@@ -135,6 +146,13 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/json/Bili短剧xyq.json",
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/jar/xyq.jar"
     },
+     {
+      "key": "csp_短剧网",
+      "name": "短剧🍊看看",
+      "type": 1,
+      "api": "http://zzdj.cc/api.php/provide/vod"
+    },
+
      
     {
       "key": "meowtv_ffzy",
@@ -221,19 +239,13 @@
 {"name": "玉米","type": 1,"url": "http://61.147.93.21:8090/index.php?url="},
 {"name": "777", "type": 0,"url": "https://jx.777jiexi.com/player/?url="},
 {"name": "杰森","type": 0,"url": "https://jx.jsonplayer.com/player/?url="},
-{"name": "cod","type": 0,"url": "https://ksksl.codjx.com/?url="},
 {"name": "西米","type": 0,"url": "https://jx.xmflv.com/?url="},
-{"name": "26db","type": 0,"url": "http://vip.26db.cn/g/?url="},
-{"name": "看看","type": 0,"url": "https://jx.m3u8.pw/?url="},
 {"name": "二线","type": 1,"url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
 {"name": "四线","type": 0,"url": "https://jx.m3u8.tv/jiexi/?url="},
 {"name": "五号线","type": 0,"url": "https://www.pouyun.com/?url="},
-{"name": "六号线","type": 0,"url": "https://www.pangujiexi.com/pangu/?url="},
-{"name": "8090","type": 0,"url": "https://www.8090g.cn/jiexi/?url="},
-{"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url="},
-{"name":"m3u8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
-{"name": "json","type": 0, "url": "https://jx.jsonplayer.com/player/?url="}
-
+{"name": "json","type": 0, "url": "https://jx.jsonplayer.com/player/?url="},
+{ "name": "84jia", "type": 1, "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
+      "ext": { "flag": [ "qq","腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷","tucheng", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "yzm", "aliyun", "RJuMao", "bilibili", "1905", "xinvip", "XAL", "qiqi", "XALS", "YuMi-vip" ] } }
 
 
 
