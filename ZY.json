@@ -121,17 +121,6 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/360影视.js"
     },
 
-     {
-      "key": "py_huya",
-      "name": "虎牙🐯直播",
-      "type": 3,
-      "api": "py_huya",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/jar/pyhuya.py",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/jar/main.jar"
-    },
 
 
      {
