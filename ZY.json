@@ -5,7 +5,11 @@
 
 "sites":[
 
-{"key": "豆瓣","name": "豆瓣推荐","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+{"key": "豆瓣",
+	"name": "豆瓣推荐",
+	"type": 3,
+	"api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
+	"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/douban.js"},
   {
       "key": "csp_Kuaikan",
       "name": "快看💡直连",
@@ -14,7 +18,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/kuaikan.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/jar/kuaikan.jar"
     },
     
      {
@@ -72,41 +76,41 @@
       "key": "csp_aiqiyi",
       "name": "爱  🍄  追剧",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/奇艺视频.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/奇艺视频.js"
     },
      {
       "key": "csp_优酷",
       "name": "优  🎉  追剧",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/you酷视频.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/you酷视频.js"
     },
      {
       "key": "csp_tengyun",
       "name": "腾  🐧  追剧",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/tengxun.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/tengxun.js"
     },
      {
       "key": "csp_mgtv",
       "name": "芒  🍁  追剧",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"./js/芒果视频.js"
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/芒果视频.js"
     },
 
      {
@@ -117,8 +121,31 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/Bili短剧xyq.json",
-      "jar": "./jar/xyq.jar"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/json/Bili短剧xyq.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/jar/xyq.jar"
+    },
+     {
+      "key": "ik资源",
+      "name": "ikun🎶资源",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod ",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "playurl": "https://www.ikdmjx.com/?url= ",
+      "categories": [
+        "爽文短剧",
+        "动作片",
+        "科幻片",
+        "恐怖片",
+        "国产动漫",
+        "国产剧",
+	"香港剧",      
+        "韩剧",
+        "大陆综艺"
+	"港台综艺"      
+      ]
     },
    
     {
