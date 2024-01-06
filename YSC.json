@@ -160,6 +160,30 @@
         "港台综艺"
       ]
     },
+	 {
+      "key": "ik资源",
+      "name": "ikun💜资源",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod ",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "playurl": "https://www.ikdmjx.com/?url= ",
+      "categories": [
+        "爽文短剧",
+        "动作片",
+        "科幻片",
+        "恐怖片",
+        "国产动漫",
+        "国产剧",
+	"香港剧",      
+        "韩剧",
+        "大陆综艺"
+	"港台综艺"      
+      ]
+    },
+
 
      {
       "key": "优质资源",
