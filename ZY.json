@@ -2,13 +2,9 @@
 
 "warningText":"主页刷新接口",    
 
-
-"sites":[
-
 {"key": "豆瓣",
 	"name": "豆瓣推荐",
-	"type": 3,
-	"api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
+	"type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
 	"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/douban.js"},
   {
       "key": "csp_Kuaikan",
@@ -112,6 +108,18 @@
       "filterable": 1,
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/芒果视频.js"
     },
+    {
+      "key": "csp_360",
+      "name": "360🐜追剧",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/360影视.js"
+    },
+
+   
 
      {
       "key": "csp_Bili短剧",
@@ -125,29 +133,13 @@
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/jar/xyq.jar"
     },
      {
-      "key": "ik资源",
-      "name": "ikun🎶资源",
+      "key": "csp_短剧网",
+      "name": "短剧🍊看看",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod ",
-      "playerType": 1,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "playurl": "https://www.ikdmjx.com/?url= ",
-      "categories": [
-        "爽文短剧",
-        "动作片",
-        "科幻片",
-        "恐怖片",
-        "国产动漫",
-        "国产剧",
-	"香港剧",      
-        "韩剧",
-        "大陆综艺",
-	"港台综艺"      
-      ]
+      "api": "http://zzdj.cc/api.php/provide/vod"
     },
-   
+
+     
     {
       "key": "meowtv_ffzy",
       "name": "非凡💮资源",
@@ -172,6 +164,30 @@
         "港台综艺"
       ]
     },
+      {
+      "key": "ik资源",
+      "name": "ikun🎶资源",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod ",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "playurl": "https://www.ikdmjx.com/?url= ",
+      "categories": [
+        "爽文短剧",
+        "动作片",
+        "科幻片",
+        "恐怖片",
+        "国产动漫",
+        "国产剧",
+	"香港剧",      
+        "韩剧",
+        "大陆综艺",
+	"港台综艺"      
+      ]
+    },
+
 
      {
       "key": "优质资源",
@@ -197,8 +213,28 @@
       ]
     }
 
-    
-     
+
+
+],
+
+
+"parses": [ 
+
+{"name": "解析聚合","type": 3,"url": "Demo"},
+{"name": "web聚合","type": 3,"url": "Web"},
+{"name": "玉米","type": 1,"url": "http://61.147.93.21:8090/index.php?url="},
+{"name": "777", "type": 0,"url": "https://jx.777jiexi.com/player/?url="},
+{"name": "杰森","type": 0,"url": "https://jx.jsonplayer.com/player/?url="},
+{"name": "西米","type": 0,"url": "https://jx.xmflv.com/?url="},
+{"name": "二线","type": 1,"url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
+{"name": "四线","type": 0,"url": "https://jx.m3u8.tv/jiexi/?url="},
+{"name": "五号线","type": 0,"url": "https://www.pouyun.com/?url="},
+{"name": "json","type": 0, "url": "https://jx.jsonplayer.com/player/?url="},
+{ "name": "84jia", "type": 1, "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
+      "ext": { "flag": [ "qq","腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷","tucheng", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "yzm", "aliyun", "RJuMao", "bilibili", "1905", "xinvip", "XAL", "qiqi", "XALS", "YuMi-vip" ] } }
+
+
+
 ],
 
 
