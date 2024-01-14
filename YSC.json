@@ -1,5 +1,5 @@
 {
-
+"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 "warningText":"主页刷新接口",    
 
 
@@ -29,7 +29,7 @@
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
-      "playurl": "https://lziplayer.com/?url=",
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
       "categories": [
         "短剧",
         "动作片",
@@ -49,7 +49,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playurl": " https://49zyplayerurl.com/?url=",
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
       "categories": [
         "国产剧",
         "香港剧",
@@ -172,6 +172,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",    
       "categories": [
         "动作片",
         "喜剧片",
@@ -200,7 +201,7 @@
 
 {"name": "解析聚合","type": 3,"url": "Demo"},
 {"name": "web聚合","type": 3,"url": "Web"},
-{"name": "玉米","type": 1,"url": "http://61.147.93.21:8090/index.php?url="},
+{ "name": "Meow","type": 1, "url": "http://jx.meowtv.cn/?url="},
 {"name": "777", "type": 0,"url": "https://jx.777jiexi.com/player/?url="},
 {"name": "杰森","type": 0,"url": "https://jx.jsonplayer.com/player/?url="},
 {"name": "西米","type": 0,"url": "https://jx.xmflv.com/?url=",
