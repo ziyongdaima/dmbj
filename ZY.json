@@ -225,7 +225,7 @@
 
 {"name": "解析聚合","type": 3,"url": "Demo"},
 {"name": "web聚合","type": 3,"url": "Web"},
-{"name": "玉米","type": 1,"url": "http://61.147.93.21:8090/index.php?url="},
+{ "name": "Meow","type": 1, "url": "http://jx.meowtv.cn/?url="},
 {"name": "777", "type": 0,"url": "https://jx.777jiexi.com/player/?url="},
 {"name": "杰森","type": 0,"url": "https://jx.jsonplayer.com/player/?url="},
 {"name": "西米","type": 0,"url": "https://jx.xmflv.com/?url=",
@@ -251,31 +251,6 @@
 ],
 
 
-"parses": [ 
-
-{"name": "解析聚合","type": 3,"url": "Demo"},
-{"name": "web聚合","type": 3,"url": "Web"},
-{"name": "玉米","type": 1,"url": "http://61.147.93.21:8090/index.php?url="},
-{"name": "777", "type": 0,"url": "https://jx.777jiexi.com/player/?url="},
-{"name": "杰森","type": 0,"url": "https://jx.jsonplayer.com/player/?url="},
-{"name": "cod","type": 0,"url": "https://ksksl.codjx.com/?url="},
-{"name": "西米","type": 0,"url": "https://jx.xmflv.com/?url="},
-{"name": "26db","type": 0,"url": "http://vip.26db.cn/g/?url="},
-{"name": "看看","type": 0,"url": "https://jx.m3u8.pw/?url="},
-{"name": "二线","type": 1,"url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
-{"name": "四线","type": 0,"url": "https://jx.m3u8.tv/jiexi/?url="},
-{"name": "五号线","type": 0,"url": "https://www.pouyun.com/?url="},
-{"name": "六号线","type": 0,"url": "https://www.pangujiexi.com/pangu/?url="},
-{"name": "8090","type": 0,"url": "https://www.8090g.cn/jiexi/?url="},
-{"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url="},
-{"name":"m3u8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
-{"name": "json","type": 0, "url": "https://jx.jsonplayer.com/player/?url="}
-
-
-],
-
-
-
 
 "flags": ["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
 
@@ -285,7 +260,7 @@
 
 
 
-"wallpaper":"https://tool.weetai.cn/api",
+"wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 
 
 "lives": [{
