@@ -166,6 +166,36 @@
         "港台综艺"
       ]
     },
+	  {
+      "key": "csp_光棍",
+      "name": "光棍|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/光棍.json"
+    },
+	  {
+      "key": "csp_视觉",
+      "name": "视觉|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/新视觉.json"
+    },
+	  {
+      "key": "csp_玩偶",
+      "name": "玩偶|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/wogg.json"
+    },
       {
       "key": "ik资源",
       "name": "ikun🎶资源",
