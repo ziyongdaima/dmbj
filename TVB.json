@@ -180,36 +180,7 @@
         "港台综艺"
       ]
     },
-	  {
-      "key": "csp_光棍",
-      "name": "乐猪|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./xdy/乐猪影视.json"
-    },
-	  {
-      "key": "csp_视觉",
-      "name": "疯狗|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./xdy/疯狗影视.json"
-    },
-	  {
-      "key": "csp_玩偶",
-      "name": "农民|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./xdy/w农民影视.json"
-    },
+
       {
       "key": "ik资源",
       "name": "ikun🎶资源",
