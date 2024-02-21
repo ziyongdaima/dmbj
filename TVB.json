@@ -188,7 +188,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./xdy/乐猪.json"
+      "ext": "./xdy/乐猪影视.json"
     },
 	  {
       "key": "csp_视觉",
@@ -198,7 +198,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./xdy/疯狗.json"
+      "ext": "./xdy/疯狗影视.json"
     },
 	  {
       "key": "csp_玩偶",
@@ -208,7 +208,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./xdy/w农民.json"
+      "ext": "./xdy/w农民影视.json"
     },
       {
       "key": "ik资源",
