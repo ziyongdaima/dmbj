@@ -182,33 +182,33 @@
     },
 	  {
       "key": "csp_光棍",
-      "name": "光棍|T追剧",
+      "name": "乐猪|T追剧",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/freeok.json"
+      "ext": "./xdy/乐猪.json"
     },
 	  {
       "key": "csp_视觉",
-      "name": "视觉|T追剧",
+      "name": "疯狗|T追剧",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/6V磁力.json"
+      "ext": "./xdy/疯狗.json"
     },
 	  {
       "key": "csp_玩偶",
-      "name": "玩偶|T追剧",
+      "name": "农民|T追剧",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/wogg.json"
+      "ext": "./xdy/w农民.json"
     },
       {
       "key": "ik资源",
