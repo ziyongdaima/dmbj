@@ -15,8 +15,8 @@
       "api": "csp_Kuaikan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/jar/kuaikan.jar"
+      "filterable": 1
+     
     },
     
      {
@@ -131,14 +131,28 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/json/Bili短剧xyq.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/jar/xyq.jar"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/json/Bili短剧xyq.json"
+    
     },
      {
       "key": "csp_短剧网",
       "name": "短剧🍊看看",
-      "type": 1,
-      "api": "http://zzdj.cc/api.php/provide/vod"
+     "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/种子短剧.js"
+    },
+     {
+      "key": "csp_短剧网",
+      "name": "短剧🍊看看",
+     "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/hy.js"
     },
 
      
@@ -286,7 +300,7 @@
 
 
 
-"spider":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/jar/DMBJ.jar;md5;c435869db6a928f45df09b736d81f02f",
+"spider":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/jar/DM.jar;md5;c435869db6a928f45df09b736d81f02f",
 
 
 
