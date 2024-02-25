@@ -60,24 +60,24 @@ CCTV-16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
-CCTV1,http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8
-CCTV1,http://39.134.66.66/PLTV/88888888/224/3221225706/index.m3u8
-CCTV2,http://39.134.66.66/PLTV/88888888/224/3221225599/index.m3u8
-CCTV3,http://39.134.66.66/PLTV/88888888/224/3221225799/index.m3u8
-CCTV4,http://39.134.66.66/PLTV/88888888/224/3221225797/index.m3u8
-CCTV5,http://39.134.66.66/PLTV/88888888/224/3221225818/index.m3u8
-CCTV5+,http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
-CCTV6,http://39.134.66.66/PLTV/88888888/224/3221225814/index.m3u8
-CCTV7,http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8
-CCTV8,http://39.134.66.66/PLTV/88888888/224/3221225795/index.m3u8
-CCTV9,http://39.134.66.66/PLTV/88888888/224/3221225676/index.m3u8
-CCTV10,http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
-CCTV11,http://39.134.66.66/PLTV/88888888/224/3221225517/index.m3u8
-CCTV12,http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
-CCTV13,http://39.134.66.66/PLTV/88888888/224/3221225812/index.m3u8
-CCTV14,http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
-CCTV15,http://39.134.66.66/PLTV/88888888/224/3221225513/index.m3u8
-CCTV17,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
+CCTV-1,http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8
+CCTV-1,http://39.134.66.66/PLTV/88888888/224/3221225706/index.m3u8
+CCTV-2,http://39.134.66.66/PLTV/88888888/224/3221225599/index.m3u8
+CCTV-3,http://39.134.66.66/PLTV/88888888/224/3221225799/index.m3u8
+CCTV-4,http://39.134.66.66/PLTV/88888888/224/3221225797/index.m3u8
+CCTV-5,http://39.134.66.66/PLTV/88888888/224/3221225818/index.m3u8
+CCTV-5+,http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
+CCTV-6,http://39.134.66.66/PLTV/88888888/224/3221225814/index.m3u8
+CCTV-7,http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8
+CCTV-8,http://39.134.66.66/PLTV/88888888/224/3221225795/index.m3u8
+CCTV-9,http://39.134.66.66/PLTV/88888888/224/3221225676/index.m3u8
+CCTV-10,http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
+CCTV-11,http://39.134.66.66/PLTV/88888888/224/3221225517/index.m3u8
+CCTV-12,http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
+CCTV-13,http://39.134.66.66/PLTV/88888888/224/3221225812/index.m3u8
+CCTV-14,http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
+CCTV-15,http://39.134.66.66/PLTV/88888888/224/3221225513/index.m3u8
+CCTV-17,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
 
 卫视频道,#genre#
 
@@ -117,31 +117,11 @@ EZTV2台,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-
 
 
 电影轮番,#genre#
-YY-电影一,http://mmitv.top/pltv/yy.php?id=1382745095
-YY-电影二,http://mmitv.top/pltv/yy.php?id=1354930924
-YY-电影三,http://mmitv.top/pltv/yy.php?id=1382736803
-YY-电影四,http://mmitv.top/pltv/yy.php?id=1456668939&uid=2718850416
-YY-电影五,http://mmitv.top/pltv/yy.php?id=1382749892
-YY-电影六,http://mmitv.top/pltv/yy.php?id=1382735573
-YY-电影七,http://mmitv.top/pltv/yy.php?id=1354888751
-YY-电影八,http://mmitv.top/pltv/yy.php?id=1353685311
-YY-电影九,http://mmitv.top/pltv/yy.php?id=1382627144
-YY-电影十,http://mmitv.top/pltv/yy.php?id=1382749892&uid=2786099940
-YY-高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-YY-家庭,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-YY_动作,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-YY-林正英,http://mmitv.top/pltv/yy.php?id=1351505899
-YY-赵本山,http://mmitv.top/pltv/yy.php?id=32160832&uid=2361867875
+
 YY-漫威,http://mmitv.top/test/douyu.php?id=6140589
 YY-恐怖,http://mmitv.top/test/douyu.php?id=1165374
 YY-哈利,http://mmitv.top/test/douyu.php?id=8814650
 YY-锤锤,http://mmitv.top/test/douyu.php?id=9018297
-YY-锤锤,http://43.138.170.29:35455/douyu/9018297
-YY-小品一,http://mmitv.top/pltv/yy.php?id=1354936198
-YY-小品二,http://mmitv.top/pltv/yy.php?id=1354931503
-YY-野外生存,http://mmitv.top/pltv/yy.php?id=1355244168
-YY-电视剧,http://mmitv.top/pltv/yy.php?id=1455460998
-YY-脱口秀,http://mmitv.top/pltv/yy.php?id=1382745089
 YY-万万没想到,http://mmitv.top/test/douyu.php?id=9220456&u=382262817&cate
 虎牙轮番,#genre#
 
