@@ -131,16 +131,27 @@
 
   
 
-     {
-      "key": "csp_Bili短剧",
-      "name": "哔哩🐞短剧",
+      {
+      "key": "csp_Bili资源",
+      "name": "哔哩🐞资源",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/json/Bili短剧xyq.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/jar/xyq.jar"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/json/Bili短剧xyq.json"
+    
+    },
+    {
+      "key": "csp_Bili音乐",
+      "name": "哔哩🎶音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/json/音乐.json"
+    
     },
      {
       "key": "csp_短剧网",
