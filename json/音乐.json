@@ -1,7 +1,7 @@
 {
   "cookie": "clan://XYQTVBox/bilicookie.txt",
   "classes": [
-{"type_name": "热榜", "type_id": "热榜" },
+{"type_name": "热歌榜", "type_id": "热歌榜" },
 {"type_name": "抖音神曲","type_id": "抖音神曲"},
 {"type_name":"古风","type_id":"古风歌曲"},	  
 {"type_name": "DJ","type_id": "DJ歌曲"},
