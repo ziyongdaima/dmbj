@@ -27,7 +27,7 @@ var rule = {
         voice:{cateId:'yyzs'},
         znl:{cateId:'znl'}
     },
-    class_name:'娱乐天地&颜值&科技文化',// /api/cate/list
+    class_name:'娱乐天地&游戏&',// /api/cate/list
     class_url:'yl&PCgame&djry&syxx&yz&kjwh&yp&voice&znl',
     detailUrl: 'http://live.yj1211.work/api/live/getRoomInfo?uid=&platform=douyu&roomId=fyid',// JustLive
     searchUrl:'/api/search/liveRoom?#did=10000000000000000000000000001501&limit=20&offset=0&sk=**;post',
