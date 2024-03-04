@@ -166,7 +166,7 @@
     },
     {
       "key": "csp_斗鱼",
-      "name": "斗鱼🐜直播",
+      "name": "斗鱼🐟直播",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
       "searchable": 1,
