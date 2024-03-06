@@ -174,6 +174,16 @@
       "filterable": 1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/斗鱼直播.js"
     },
+    {
+      "key": "csp_直播",
+      "name": "电视📡直播",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/直播转点播.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/直播转点播/直播转点播.txt"
+    },
      
     {
       "key": "meowtv_ffzy",
