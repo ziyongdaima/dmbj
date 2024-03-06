@@ -1,8 +1,7 @@
 [
-{"name":"广东频道","url":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/直播转点播/广东频道.txt&&&"},
-{"name":"央视频道","url":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/直播转点播/央视频道.txt&&&http://w.g9.pub:66/f/yPrBfL/%E5%A3%81%E7%BA%B81.jpg"},
+{"name":"广东频道","url":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/直播转点播/广东频道.txt&&&https://api.likepoems.com/img/mc"},
 {"name":"卫视频道","url":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/直播转点播/卫视频道.txt&&&https://api.likepoems.com/img/mc"},
-{"name":"咪咕移动","url":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/直播转点播/咪咕移动.txt&&&https://pic.3gbizhi.com/uploads/20140428/4a96bce58a37d196e242bb5d68f02902.jpg"},
-{"name":"历年春晚","url":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/直播转点播/历年春晚.txt&&&https://api.likepoems.com/img/mc"}
+{"name":"虎牙","url":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/直播转点播/虎牙.txt&&&https://pic.3gbizhi.com/uploads/20140428/4a96bce58a37d196e242bb5d68f02902.jpg"}
+
 
 ]
