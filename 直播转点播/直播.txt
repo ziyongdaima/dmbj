@@ -1,0 +1,16 @@
+[
+{"name":"歌曲MV","url":"http://我不是.肥猫.love:63/lives/mv.txt&&&https://api.likepoems.com/img/mc"},
+{"name":"本地直播","url":"http://127.0.0.1:9978/file/TVBox/tv/live.txt&&&http://w.g9.pub:66/f/yPrBfL/%E5%A3%81%E7%BA%B81.jpg"},
+{"name":"饭太硬直播","url":"https://ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt&&&https://api.likepoems.com/img/mc"},
+{"name":"肥猫直播","url":"http://我不是.肥猫.love:63/TV/tvzb.txt&&&https://pic.3gbizhi.com/uploads/20140428/4a96bce58a37d196e242bb5d68f02902.jpg"},
+{"name":"南风直播","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt&&&https://api.likepoems.com/img/mc"},
+{"name":"多多直播","url":"https://bitbucket.org/xduo/duoapi/raw/master/v.txt&&&https://api.likepoems.com/img/mc"},
+{"name":"唐三直播","url":"http://home.jundie.top:81/Cat/tv/live.txt&&&https://api.likepoems.com/img/mc"},
+{"name":"甜蜜直播","url":"http://zdir.kebedd69.repl.co/public/live.txt&&&https://api.likepoems.com/img/mc"},
+{"name":"太阳直播","url":"http://9xi4o.tk/sub/mytv.txt&&&https://api.likepoems.com/img/mc"},
+{"name":"吾爱直播","url":"http://52bsj.vip:81/api/v3/file/get/763/live.txt?sign=87BTGT1_6AOry7FPwy_uuxFTv2Wcb9aDMj46rDdRTD8%3D%3A0&&&https://api.likepoems.com/img/mc"},
+{"name":"醒人室直播","url":"https://agit.ai/fantaiying/fty/raw/branch/master/live.txt&&&https://api.likepoems.com/img/mc"},
+{"name":"影视范直播","url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.likepoems.com/img/mc"},
+{"name":"野火直播","url":"https://pastebin.com/raw/tuXBQs7U&&&https://api.likepoems.com/img/mc"},
+{"name":"福利直播","url":"http://127.0.0.1:9978/file/TVBox/fl/live福利.txt&&&http://w.g9.pub:66/f/zpKJI4/%E5%A3%81%E7%BA%B84.jpg"}
+]
