@@ -1,0 +1,6 @@
+星空卫视,http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
+凤凰卫视,http://110.72.64.89:808/hls/62/index.m3u8
+香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
+翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+本港台,http://113.117.74.28:8081/hls/135/index.m3u8
+TVB星河,http://113.117.74.12:8081/hls/135/index.m3u8
