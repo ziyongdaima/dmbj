@@ -36,8 +36,7 @@ TVBSHD台,http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnz
 CGNTV台,http://live.cgtn.com/500/prog_index.m3u8
 EZTV1台,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 EZTV2台,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
-EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
-RTHK32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+
 
 
 台湾频道,#genre#﻿
@@ -56,7 +55,6 @@ RTHK32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/
 闽南民视台,http://ali.hlspull.yximgs.com/live/twlivephzwfpzwvnzfdlsetfzzzzszsftewzhvcbzzfdzuolzbms.flv
 闽南中视台,http://ali.hlspull.yximgs.com/live/twlivezphfwnmfdczfxcvhzzwzfbfzdyuzznmfcbsfzeztyhsdzs.flv
 闽南华视台,http://ali.hlspull.yximgs.com/live/twlivepdymvcznzzzcvbcvbztyzzzffcfzvzftozzbvczfednhs.flv
-纬来体育台,https://cloud.yumixiu768.com/tmp/123.m3u8
 英超体育台,http://ali.hlspull.yximgs.com/live/5c7d2ac20eb831991544e2a8c9e0ab32.flv
 龙祥电影台,http://ali.hlspull.yximgs.com/live/twlivemzloehzbzzzpvboydetzewszhthzyuzfzwetyzzzhflxsz.flv 
 东森电影台,http://ali.hlspull.yximgs.com/live/twlivezowdxnzltdzhecvxczzezzezyhzdyduozuomdfzhzzzdzszy.flv 
