@@ -125,6 +125,16 @@
       "filterable": 1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/直播转点播/直播转点播.txt"
     },
+      {
+      "key": "csp_Kunyu77",
+      "name": "七七🐞影视",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
    
       {
       "key": "csp_Kuaikan",
@@ -304,7 +314,7 @@
 
 
 
-"spider":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/jar/DM.jar;md5;c435869db6a928f45df09b736d81f02f",
+"spider":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/jar/DM1.jar;md5;c435869db6a928f45df09b736d81f02f",
 
 
 
