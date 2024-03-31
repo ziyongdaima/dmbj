@@ -136,15 +136,7 @@
     },
 
    
-      {
-      "key": "csp_Kuaikan",
-      "name": "快看💡直连",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-     
+    
     },
     
      {
@@ -168,36 +160,8 @@
         "大陆综艺"
       ]
     },
-     {
-      "key": "meowtv_49ys",
-      "name": "四九🍓资源",
-      "type": 1,
-      "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playurl": " https://49zyplayerurl.com/?url=",
-      "categories": [
-        "国产剧",
-        "香港剧",
-        "动作片",
-        "爱情片",
-        "科幻片",
-        "战争片",
-        "喜剧片",
-        "韩国剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "台湾剧",
-        "国产动漫"
-       
     
-      ]
-    },
-
-
-     
+ 
     {
       "key": "meowtv_ffzy",
       "name": "非凡💮资源",
