@@ -19,17 +19,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-      {
-      "key": "csp_直播",
-      "name": "电视📡直播",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/直播转点播.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/18j/福利.txt"
-    },
-     
+    
        {
       "key": "美少女",
       "name": "技巧影视",
@@ -321,7 +311,7 @@
     {
       "name": "sao0",
       "type": 0,
-      "url": "",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/18j/福利.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
