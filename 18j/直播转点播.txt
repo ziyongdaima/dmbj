@@ -1,6 +1,0 @@
-[
-{"name":"麻豆","url":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/18j/福利.txt&&&https://api.likepoems.com/img/mc"}
-
-
-
-]
