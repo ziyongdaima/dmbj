@@ -2,14 +2,8 @@
   "spider": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/jar/DM1.jar;md5;c435869db6a928f45df09b736d81f02f",
   "wallpaper":"" ,
   "sites": [
-    {"key": "豆瓣","name": "豆瓣推荐","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
-     {
-      "key": "资源",
-      "name": "自营资源",
-      "type": 3,
-      "api": "https://bitbucket.org/yim01/yim01/raw/68c93a18fcba10c78bfab0d6cb14523ae6f8f1bb/zbzdb.js",
-      "ext": "https://bitbucket.org/yim01/yim01/raw/fae9441abfdc3786931d1749334e6c66a89837ee/fljk2.js"
-    },
+  
+ 
       {
       "key": "老鸭",
       "name": "自收影视",
@@ -38,6 +32,17 @@
       "quickSearch": 1,
       "filterable": 0
     },
+     {
+      "key": "csp_直播",
+      "name": "电视📡直播",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/直播转点播.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/18j/直播转点播.txt"
+    },
+   
      {
       "key": "*白资源",
       "name": "白云资源",
@@ -311,7 +316,7 @@
     {
       "name": "sao0",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/18j/福利.txt",
+      "url": "",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
