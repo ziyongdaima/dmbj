@@ -98,12 +98,12 @@
      {
       "key": "csp_虎牙网",
       "name": " 虎牙🐯直播",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/XYQHiker/虎牙直播.json"
+       "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext":" https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/虎牙直播.json"
     },
     {
       "key": "csp_斗鱼",
