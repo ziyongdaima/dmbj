@@ -149,8 +149,16 @@
       "filterable": 1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/种子短剧.js"
     },
-
-     
+    {
+      "key": "csp_XBPQ_虎牙.",
+      "name": "🌤┃直播┃虎牙",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/虎牙直播.json
+    },
     {
       "key": "meowtv_ffzy",
       "name": "非凡💮资源",
