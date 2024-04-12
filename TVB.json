@@ -117,7 +117,12 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/直播转点播/直播转点播.txt"
     },
    
-
+         {
+      "key": "csp_短剧网",
+      "name": "短剧🍊看看",
+      "type": 1,
+      "api": "http://zzdj.cc/api.php/provide/vod"
+    },
 
     
      {
