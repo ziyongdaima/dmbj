@@ -85,16 +85,7 @@
     
     },
     
-     {
-      "key": "csp_短剧网",
-      "name": "短剧🍊看看",
-     "type": 1,
-      "api": "http://zzdj.cc/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
+  
      {
       "key": "csp_虎牙网",
       "name": " 虎牙🐯直播",
@@ -212,7 +203,8 @@
       "changeable": 1,
       "quickSearch": 1,
       "categories": [
-        "动作片",
+        "短剧大全",
+	"动作片",
         "科幻片",
         "恐怖片",
         "动画片",
