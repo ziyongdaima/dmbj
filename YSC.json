@@ -123,8 +123,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/斗鱼.py",
-    "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/jar/py.jar"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/py/斗鱼.py"
+     
     },
 	
 
@@ -225,7 +225,7 @@
 
 
 
-"spider":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/jar/py.jar;md5;c435869db6a928f45df09b736d81f02f",
+"spider":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/jar/DM.jar;md5;c435869db6a928f45df09b736d81f02f",
 
 
 
