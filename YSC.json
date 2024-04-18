@@ -169,17 +169,7 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/json/音乐.json"
     
     },
-     {
-      "key": "csp_短剧网",
-      "name": "短剧🍊看看",
-       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/种子短剧.js"
-    },
-
+   
     {
       "key": "py_ctv",
       "name": "cctv🐯片库",
