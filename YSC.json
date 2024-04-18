@@ -179,7 +179,19 @@
       "filterable": 1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/种子短剧.js"
     },
-   
+
+    {
+      "key": "py_ctv",
+      "name": "cctv🐯片库",
+      "type": 3,
+      "api": "py_huya",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/py/cctv.py"
+     
+    },
+	
     {
       "key": "meowtv_ffzy",
       "name": "非凡💮资源",
