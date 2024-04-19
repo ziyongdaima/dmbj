@@ -112,7 +112,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/py/虎牙.py"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/DMBJ/main/jar/pyhuya.py"
       
     },
        {
@@ -127,6 +127,18 @@
      
     },
 	  {
+      "key": "py_ail",
+      "name": "alist🐯挂载",
+      "type": 3,
+      "api": "py_huya",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/py/alist.py"
+     
+    }, 
+	
+	{
       "key": "csp_短剧网采集",
       "name": "短剧🍊采集",
       "type": 1,
