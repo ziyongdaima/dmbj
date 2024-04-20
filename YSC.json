@@ -187,6 +187,19 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/py/cctv.py"
      
     },
+
+
+	 {
+      "key": "csp_Panda_玩偶哥哥",
+      "name": "玩偶👲影视",
+      "api": "csp_Wogg",
+      "type": 3,
+      "searchable": 1,
+      "playerType": 2,
+      "timeout": 30,
+      "changeable": 0,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/tvbox/token.txt"
+    },
 	
     {
       "key": "meowtv_ffzy",
