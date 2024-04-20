@@ -117,7 +117,7 @@
     },
        {
       "key": "py_DY",
-      "name": "斗鱼🐯直播",
+      "name": "斗鱼🐟直播",
       "type": 3,
       "api": "py_huya",
       "searchable": 0,
@@ -128,7 +128,7 @@
     },
 	  {
       "key": "py_ail",
-      "name": "alist🐯挂载",
+      "name": "厂长🎀资源",
       "type": 3,
       "api": "py_huya",
       "searchable": 0,
@@ -172,7 +172,7 @@
     },
     {
       "key": "csp_Bili音乐",
-      "name": "哔哩🎶音乐",
+      "name": "哔哩🎧音乐",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -184,7 +184,7 @@
    
     {
       "key": "py_ctv",
-      "name": "cctv🐯片库",
+      "name": "cctv🐥片库",
       "type": 3,
       "api": "py_huya",
       "searchable": 0,
