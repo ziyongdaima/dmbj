@@ -189,18 +189,7 @@
     },
 
 
-	 {
-      "key": "csp_Panda_玩偶哥哥",
-      "name": "玩偶👲影视",
-      "api": "csp_WoGG",
-      "type": 3,
-      "searchable": 1,
-      "playerType": 2,
-      "timeout": 30,
-      "changeable": 0,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/DMBJ/main/jar/py.jar",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/tvbox/token.txt"
-    },
+
 	
     {
       "key": "meowtv_ffzy",
