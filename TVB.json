@@ -151,8 +151,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/xyq/玩偶哥哥XYQHikerAL.json",
-              "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/xyq/tvbox/token.txt"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/xyq/玩偶哥哥XYQHikerAL.json,
+              https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/xyq/tvbox/token.txt"
     },
 
 
