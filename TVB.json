@@ -143,6 +143,18 @@
       ]
     },
 
+	  {
+      "key": "csp_Panda_玩偶哥哥",
+      "name": "👲玩偶👲影视",
+      "api": "csp_Wogg",
+      "type": 3,
+      "searchable": 1,
+      "playerType": 2,
+      "timeout": 30,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    },
+
 
     
      {
