@@ -198,6 +198,7 @@
       "playerType": 2,
       "timeout": 30,
       "changeable": 0,
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/DMBJ/main/jar/py.jar",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/tvbox/token.txt"
     },
 	
