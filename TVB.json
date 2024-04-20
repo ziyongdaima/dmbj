@@ -146,13 +146,13 @@
 	  {
       "key": "csp_Panda_玩偶哥哥",
       "name": "👲玩偶👲影视",
-      "api": "csp_Wogg",
       "type": 3,
+      "api": "csp_XYQHikerAL",
       "searchable": 1,
-      "playerType": 2,
-      "timeout": 30,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/xyq/玩偶哥哥XYQHikerAL.json",
+              "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/xyq/tvbox/token.txt"
     },
 
 
