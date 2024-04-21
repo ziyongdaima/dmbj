@@ -9,16 +9,7 @@
 	"name": "豆瓣推荐",
 	"type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
 	"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/douban.js"},
-  {
-      "key": "csp_Kuaikan",
-      "name": "快看💡直连",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-     
-    },
+
     
      {
       "key": "量子资源",
@@ -242,6 +233,32 @@
       ]
     },
 
+        {
+      "key": "zy_暴风",
+      "name": "暴风🌿采集",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "战争片",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "国产动漫",
+        "日韩动漫",
+        "港台动漫",
+        "大陆综艺",
+        "港台综艺"
+      
+      ]
+    },
 	
     {
       "key": "meowtv_ffzy",
