@@ -188,7 +188,39 @@
      
     },
 
+    {
+      "key": "csp_Ddys",
+      "name": "🐞低端🐞影视",
+      "type": 3,
+      "api": "csp_Ddys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 
+     {
+      "key": "优质资源",
+      "name": "优质🌟资源",
+      "type": 1,
+      "api": "https://api.1080zyku.com/inc/apijson.php",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "短剧大全",
+	"动作片",
+        "科幻片",
+        "恐怖片",
+        "动画片",
+        "国产动漫",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "大陆综艺",
+        "港台综艺"
+      ]
+    },
 
 	
     {
