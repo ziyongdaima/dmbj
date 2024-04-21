@@ -119,6 +119,31 @@
     },
    
          
+
+    
+     {
+      "key": "量子资源",
+      "name": "量子💜资源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "playurl": "https://lziplayer.com/?url=",
+      "categories": [
+        "短剧",
+        "动作片",
+        "科幻片",
+        "喜剧片",
+        "国产动漫",
+        "国产剧",
+        "香港剧",
+        "大陆综艺"
+      ]
+    },
+
+
       {
       "key": "优质资源",
       "name": "优质🌟资源",
@@ -143,31 +168,27 @@
       ]
     },
 
-	
 
-
-    
      {
-      "key": "量子资源",
-      "name": "量子💜资源",
+      "key": "魔都动漫",
+      "name": "魔都👀动漫",
       "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
       "playerType": 1,
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
-      "playurl": "https://lziplayer.com/?url=",
+      "playurl": "https://moduzy.cc/jiexi/?url=",
       "categories": [
-        "短剧",
-        "动作片",
-        "科幻片",
-        "喜剧片",
         "国产动漫",
-        "国产剧",
-        "香港剧",
-        "大陆综艺"
+        "动漫电影",
+        "港台动漫",
+        "日韩动漫",
+        "欧美动漫"
+      
       ]
     },
+
     
  
     {
