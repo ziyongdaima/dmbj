@@ -188,6 +188,26 @@
      
     },
 
+     {
+      "key": "魔都动漫",
+      "name": "魔都👀动漫",
+      "type": 1,
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "playurl": "https://moduzy.cc/jiexi/?url=",
+      "categories": [
+        "国产动漫",
+        "动漫电影",
+        "港台动漫",
+        "日韩动漫",
+        "欧美动漫"
+      
+      ]
+    },
+
     {
       "key": "csp_Ddys",
       "name": "低端🐞影视",
