@@ -117,79 +117,9 @@ EZTV2台,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-
 
 
 
-广东频道,#genre#﻿
-
-广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
-广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-广东民生,http://php.jdshipin.com:8880/chudian.php?id=gdms
-广东科教,http://php.jdshipin.com:8880/chudian.php?id=gdjjkj
-广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
-广东少儿,http://php.jdshipin.com:8880/chudian.php?id=gdse
-广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
-嘉佳卡通,http://php.jdshipin.com:8880/chudian.php?id=jjkt
-广东国际,http://php.jdshipin.com:8880/chudian.php?id=gdgj
-广东移动,http://php.jdshipin.com:8880/chudian.php?id=gdyd
-广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
-广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
-广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
-广州都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
-东莞资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
-广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
-广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
-东莞新闻,http://php.jdshipin.com:8880/0769.php?id=xwzh
-湾区卫视,http://php.jdshipin.com:8880/chudian.php?id=nfws
-英德新闻,http://php.jdshipin.com:8880/chudian.php?id=ydxw
-佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
-佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
-佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
-佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
-佛山高明,http://php.jdshipin.com:8880/fstv.php?id=fsgm
-佛山三水,http://php.jdshipin.com:8880/fstv.php?id=fsss
-云浮文旅,https://livestream.oeeee.com/slive/17807.m3u8
-肇庆公共,http://php.jdshipin.com:8880/chudian.php?id=zqgg
-河源公共,http://php.jdshipin.com:8880/chudian.php?id=hygg
-连平台,http://php.jdshipin.com:8880/chudian.php?id=lpzh
-阳江-1,http://php.jdshipin.com:8880/chudian.php?id=yjtv1
-阳江-2,http://php.jdshipin.com:8880/chudian.php?id=yjtv2
-开平生活,http://php.jdshipin.com:8880/chudian.php?id=kpsh
-惠阳电视台,http://php.jdshipin.com:8880/chudian.php?id=hytv
-台山台,http://php.jdshipin.com:8880/chudian.php?id=tstv
-遂溪台,http://php.jdshipin.com:8880/chudian.php?id=sxtv
-东源台,http://php.jdshipin.com:8880/chudian.php?id=dytv
-乐昌电视台,http://php.jdshipin.com:8880/chudian.php?id=lctv
-广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
-佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
-肇庆综合,http://php.jdshipin.com:8880/chudian.php?id=zqzh
-河源综合,http://php.jdshipin.com:8880/chudian.php?id=hyzh
-惠东综合,http://php.jdshipin.com:8880/chudian.php?id=hdzh
-开平综合,http://php.jdshipin.com:8880/chudian.php?id=kpzh
-广宁综合,http://php.jdshipin.com:8880/chudian.php?id=gnzh
-化州综合,http://php.jdshipin.com:8880/chudian.php?id=hzzh
-鹤山综合,http://php.jdshipin.com:8880/chudian.php?id=hszh
-廉江综合,http://php.jdshipin.com:8880/chudian.php?id=ljzh
-普宁综合,http://php.jdshipin.com:8880/chudian.php?id=pnzh
-紫金综合,http://php.jdshipin.com:8880/chudian.php?id=zjzh
-阳春综合,http://php.jdshipin.com:8880/chudian.php?id=yczh
-怀集综合,http://php.jdshipin.com:8880/chudian.php?id=hjzh
-信宜综合,http://php.jdshipin.com:8880/chudian.php?id=xyzh
-徐闻综合,http://php.jdshipin.com:8880/chudian.php?id=xwzh
-阳西综合,http://php.jdshipin.com:8880/chudian.php?id=yxzh
-新会综合,http://php.jdshipin.com:8880/chudian.php?id=xhzh
-和平综合,http://php.jdshipin.com:8880/chudian.php?id=hpzh
-吴川综合,http://php.jdshipin.com:8880/chudian.php?id=wczh
-潮安综合,http://php.jdshipin.com:8880/chudian.php?id=cazh
-云浮综合,https://livestream.oeeee.com/slive/17806.m3u8
 
 
 
-
-电影轮番,#genre#
-
-YY-漫威,http://mmitv.top/test/douyu.php?id=6140589
-YY-恐怖,http://mmitv.top/test/douyu.php?id=1165374
-YY-哈利,http://mmitv.top/test/douyu.php?id=8814650
-YY-锤锤,http://mmitv.top/test/douyu.php?id=9018297
-YY-万万没想到,http://mmitv.top/test/douyu.php?id=9220456&u=382262817&cate
 
 咪咕移动,#genre#
 
