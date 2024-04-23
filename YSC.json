@@ -167,17 +167,7 @@
     
     },
    
-    {
-      "key": "py_ctv",
-      "name": "cctv🐥片库",
-      "type": 3,
-      "api": "py_huya",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/py/cctv.py"
-     
-    },
+
 
      {
       "key": "魔都动漫",
@@ -199,15 +189,7 @@
       ]
     },
 
-    {
-      "key": "csp_Ddys",
-      "name": "低端🐞影视",
-      "type": 3,
-      "api": "csp_Ddys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+  
 
      {
       "key": "优质资源",
