@@ -117,17 +117,23 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/py/斗鱼.py"
      
     },
-	  {
-      "key": "py_ail",
-      "name": "厂长🎀资源",
-      "type": 3,
-      "api": "py_huya",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/py/厂长.py"
-     
-    }, 
+	
+     {
+      "key": "火花资源",
+      "name": "火花🐭资源",
+      "type": 1,
+      "api": "http://cj.huohua.vip/api.php/provide/vod/at/json/",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
+    },
 	
 
 	    {
@@ -277,7 +283,7 @@
 { "name": "Meow","type": 1, "url": "http://jx.meowtv.cn/?url="},
 { "name":"一线","type": 1,"url": "http://119.91.123.253:2345/Api/yun.php?url="},
 {"name": "二线","type": 1,"url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
-    	
+{ "name": "极速","type": 1, "url": "https://jx.2s0.cn/player/?url="},   	
 {"name": "云解析", "type": 1, "url": "http://119.91.123.253:2345/Api/yun.php?url=",
 	"ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi",
         "乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua",
