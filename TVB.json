@@ -107,6 +107,19 @@
       "filterable": 1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/js/斗鱼直播.js"
     },
+
+
+	 {
+      "key": "csp_不卡网",
+      "name": " 不卡🐯直播",
+       "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/jar/xbpq旧.jar",
+      "ext":" https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/虎牙直播.json"
+    },
     {
       "key": "csp_直播",
       "name": "电视📡直播",
