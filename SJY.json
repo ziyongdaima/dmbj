@@ -93,17 +93,7 @@
       "ext":" https://www.gitlink.org.cn/api/LLwj/YWJ/raw/js/虎牙直播.js?ref=main"
     },
  
-      {
-      "key": "csp_斗鱼",
-      "name": "🐟斗鱼直播",
-      "type": 3,
-      "api": "https://bitbucket.org/249886372/dmbj/raw/8dcdf4b8d29feda1de70214ccbbf5e21cd34cd3e/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/249886372/dmbj/raw/8dcdf4b8d29feda1de70214ccbbf5e21cd34cd3e/js/斗鱼直播.js"
-    },
- 
+
  
       {
       "key": "csp_Bili资源",
@@ -156,13 +146,13 @@
      {
       "key": "csp_短剧网",
       "name": "🍊量子短剧",
-       "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/",
       "playerType": 1,
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
-      "playurl": "https://lziplayer.com/?url=",
+      "playurl": "http://43.248.129.14:20240/?url=",
       "categories": [
         "短剧"
  
