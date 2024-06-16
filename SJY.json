@@ -129,16 +129,18 @@
     },
  
  
-   {
-      "key": "加速",
-      "name": "🚀加速资源",
+  {
+      "key": "视觉",
+      "name": "👓视觉┃多线",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_Xinsj",
+      "timeout": 15,
       "searchable": 1,
+      "jar": "https://www.gitlink.org.cn/api/LLwj/YWJ/raw/jar/fan.txt?ref=main",
       "quickSearch": 1,
-      "categories": ["电影","连续剧","综艺","动漫","短剧"],
-      "ext": "http://43.154.162.194/ruifenglb_api.php/v1.vod"
-     },
+      "changeable": 1,
+      "ext": "https://www.80yy3.com/"
+    },
       {
       "key": "星芽短剧",
       "name": "🎋星芽短剧",
