@@ -1,7 +1,6 @@
 [
-{"name":"电影合集","url":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/直播转点播/影视.txt&&&https://api.likepoems.com/img/mc"},
-{"name":"DJ舞曲","url":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/直播转点播/DJ舞曲.txt&&&https://api.likepoems.com/img/mc"},
-{"name":"MV播放","url":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/直播转点播/MTV.txt&&&https://api.likepoems.com/img/mc"}
+{"name":"电影合集","url":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/直播转点播/影视.txt&&&https://api.likepoems.com/img/mc"}
+
 
 
 ]
