@@ -8,11 +8,11 @@
       "key": "wenc",
       "name": "👿文才|XBPQ",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_czpy",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/文才.jsom"
+      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/py/厂长.py"
 	 },
 
  {
