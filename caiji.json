@@ -23,7 +23,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/骚火.jsom"
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/骚火.json"
 	 },
 	 {
       "key": "55",
@@ -33,7 +33,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/DMBJ/main/XYQHiker/影视工厂.jsom"
+      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/DMBJ/main/XYQHiker/影视工厂.json"
 	 },
 	 {
       "key": "98",
@@ -43,7 +43,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/DMBJ/main/XYQHiker/虎牙直播.jsom"
+      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/DMBJ/main/XYQHiker/虎牙直播.json"
 	 },
 	 {
       "key": "TVB",
@@ -63,7 +63,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/厂长.jsom"
+      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/厂长.json"
 	 },
 	 {
       "key": "七新",
@@ -73,7 +73,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/七新影视.jsom"
+      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/七新影视.json"
 	 },
    {
       "key": "84",
@@ -83,7 +83,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/动漫巴士.jsom"
+      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/动漫巴士.json"
 	 },
 	 {
       "key": "BT",
@@ -93,7 +93,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/两个BT.jsom"
+      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/两个BT.json"
 	 },
 	 {
       "key": "LZ",
@@ -103,7 +103,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/量子影视.jsom"
+      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/量子影视.json"
 	 },
 	 {
       "key": "ZZ",
@@ -113,7 +113,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/子子影视.jsom"
+      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/子子影视.json"
 	 },
 	 {
       "key": "大米",
@@ -123,7 +123,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/大米星球.jsom"
+      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/大米星球.json"
 	 },
 	 {
       "key": "DD",
@@ -133,7 +133,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/蛋蛋影视.jsom"
+      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/蛋蛋影视.json"
 	 }
 
 
