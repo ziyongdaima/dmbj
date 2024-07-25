@@ -55,6 +55,28 @@
       "filterable": 1,
       "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/TVB%E4%BA%91%E6%92%AD.json"
 	 },
+
+	  {
+      "key": "量子资源",
+      "name": "量子💜资源",
+      "type": 1,
+      "api": "https://kuaikanzy-api.com/api.php/provide/vod/from/kuaikan ",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "playurl": "http://43.248.129.14:20240/?url=",
+      "categories": [
+        "短剧",
+        "动作片",
+        "科幻片",
+        "喜剧片",
+        "国产动漫",
+        "国产剧",
+        "香港剧",
+        "大陆综艺"
+      ]
+    },
      {
       "key": "厂长",
       "name": "👿厂长|XBPQ",
