@@ -147,7 +147,7 @@
       "key": "量子资源",
       "name": "量子💜资源",
       "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan ",
       "playerType": 1,
       "searchable": 1,
       "changeable": 1,
