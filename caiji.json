@@ -43,17 +43,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/DMBJ/main/XYQHiker/虎牙直播.json"
+      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XYQHiker/农民影视.json"
 	 },
 	 {
       "key": "TVB",
       "name": "👿TVB|XBPQ",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/TVB%E4%BA%91%E6%92%AD.json"
+      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XYQHiker/VS影院.json"
 	 },
 
 	  {
