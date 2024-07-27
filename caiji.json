@@ -155,7 +155,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":{"分类url":"https://www.gzyuany.com/vodshow/{cateid}-{area}-{by}-{calss}-{lang}----{catepg}---{year}.html"
+      "ext":{"分类url":"https://www.gzyuany.com/type/{cateid}-{area}-{by}-{calss}-{lang}----{catepg}---{year}.html"
       }
 	 }
 
