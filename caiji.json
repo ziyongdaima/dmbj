@@ -155,8 +155,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":{"分类url":"https://www.gzyuany.com/vodshow/{cateid}-{area}-{by}-{calss}-{lang}-{letter}---{catepg}---{year}.html",
-      "分类":"电影$6#电视剧$13#综艺$25#动漫$29#网红短剧$34"}
+      "ext":{"分类url":"https://www.gzyuany.com/vodshow/{cateid}-{area}-{by}-{calss}-{lang}-{letter}---{catepg}---{year}.html"
+      }
 	 }
 
 
