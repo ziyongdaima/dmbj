@@ -148,6 +148,16 @@
       "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/大米星球.json"
 	 },
 	 {
+      "key": "Dp",
+      "name": "👿Dl|XBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":{"分类url":"https://zstv6.com/shem/{cateId}-{area}-{by}-{catePg}-{year}.html"
+     },
+	 {
       "key": "DD",
       "name": "👿DD|XBPQ",
       "type": 3,
