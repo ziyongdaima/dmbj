@@ -155,7 +155,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":{"分类url":"https://www.gzyuany.com/type/{cateid}/area/{area}/by/{by}/calss/{calss}/page/{catepg}/year/{year}.html"
+      "ext":{"分类url":"https://www.xinshijue8.cn/whole/{cateid}_{area}_{calss}_{lang}_{year}___0_hits_2.html"
       }
 	 }
 
