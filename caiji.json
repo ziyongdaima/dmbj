@@ -155,7 +155,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":{"分类url":"https://zstv6.com/shem/{cateId}-{area}-{by}-{catePg}-{year}.html",
+      "ext":{"分类url":"https://zstv6.com/shem/{cateId}-{area}-{catePg}-{year}.html",
 	     "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
      }},
 	 {
