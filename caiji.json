@@ -155,9 +155,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":{"分类url":"https://www.qingfengys.com/show/id/{cateId}/page/{catePg}/by/{by}/year/{year}.html",
-	     "分类": "电影$1#电视剧$2#动漫$4#综艺$3"，
-	      "播放数组": "class=\"text-overflow&&</a>"
+      "ext":{"播放数组": "class=\"text-overflow&&</a>",
+	      "分类url":"https://www.qingfengys.com/show/id/{cateId}/page/{catePg}/by/{by}/year/{year}.html",
+	     "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
+	      
      }},
 	 {
       "key": "Dp",
