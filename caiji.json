@@ -155,7 +155,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":{"分类url":"https://www.maolvys.com/index.php/vod/show/area/{area}/by/{by}/class/{calss}/id/{cateid}/page/{catepg}/year/{year}.html"
+      "ext":{"分类url":"https://www.maolvys.com/vod/show/area/{area}/by/{by}/class/{calss}/id/{cateid}/page/{catepg}/year/{year}.html"
       }
 	 }
 
