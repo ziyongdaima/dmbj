@@ -156,7 +156,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext":{"分类url":"https://zstv6.com/shem/{cateId}-{area}-{by}-{catePg}-{year}.html"
-     },
+     }},
 	 {
       "key": "DD",
       "name": "👿DD|XBPQ",
