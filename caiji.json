@@ -155,7 +155,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":{"分类url":"https://www.xinshijue8.cn/type/{cateid}_{area}_{calss}_{lang}_{year}_{by}_{catepg}.html"
+      "ext":{"分类url":"https://www.maolvys.com/index.php/vod/show//id/{cateid}/area/{area}/by/{by}/class/{calss}/page/{catepg}/year/{year}.html"
       }
 	 }
 
