@@ -12,8 +12,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":{"数组": "myui-vodlist__box\"&&</div>",
-	      "分类url":"https://www.ysgc.fun/vodtype/{cateid}-{area}-{by}-{lang}-{calss}-----{catePg}---{year}.html",
+      "ext":{
+	      "分类url":"https://www.kaixinyes.com/show/id/{cateid}/area/{area}/by/{by}/page/{catePg}/year/{year}.html",
 	     "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
 	      
      }},
