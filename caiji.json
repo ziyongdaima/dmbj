@@ -12,9 +12,11 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/XBPQ/文才.json"
-	 },
-
+      "ext":{
+	      "分类url":"https://www.ysgc.fun/vodshow/{cateid}-{area}-{by}-{calss}--------{year}.html",
+	     "分类": "电影$1#电视剧$13#动漫$4#综艺$3"
+	      
+     }},
  {
       "key": "348",
       "name": "👿348|XBPQ",
