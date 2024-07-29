@@ -14,7 +14,7 @@
       "filterable": 1,
       "ext":{"数组": "myui-vodlist__box\"&&</div>",
 	      "分类url":"https://www.ysgc.fun/vodtype/{cateid}-{area}-{by}-{calss}-----{catePg}---{year}.html",
-	     "分类": "电影$1#电视剧$13#动漫$4#综艺$3"
+	     "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
 	      
      }},
 
@@ -28,7 +28,7 @@
       "filterable": 1,
       "ext":{
 	      "分类url":"https://www.kaixinyes.com/show/{cateid}-{area}-{by}------{catePg}---{year}.html",
-	     "分类": "电影$1#电视剧$13#动漫$4#综艺$3"
+	     "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
 	      
      }},
  {
