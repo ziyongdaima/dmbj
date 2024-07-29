@@ -12,7 +12,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":{,
+      "ext":{
 	      "分类url":"https://huale.tv/vodshow/{cateid}/area/{area}/page/{catePg}/year/{year}.html",
 	     "分类": "电影$1#连续剧$2#综艺$3#动漫$4"
 	      
@@ -26,8 +26,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":{"数组": "class=\"stui-vodlist__box\"&&</div>",
-	      "分类url":"https://www.kaixinyes.com/show/{cateid}-{area}---{by}---{catePg}---{year}.html",
+      "ext":{
+	      "分类url":"https://www.kaixinyes.com/show/{cateid}-{catePg}---{year}.html",
 	     "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
 	      
      }},
