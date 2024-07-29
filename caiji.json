@@ -13,7 +13,21 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext":{"数组": "myui-vodlist__box\"&&</div>",
-	      "分类url":"https://www.ysgc.fun/vodtype/{cateid}-{area}-{by}-{calss}--------{year}.html",
+	      "分类url":"https://www.ysgc.fun/vodtype/{cateid}-{area}-{by}-{calss}-----{catePg}---{year}.html",
+	     "分类": "电影$1#电视剧$13#动漫$4#综艺$3"
+	      
+     }},
+
+	 {
+      "key": "wenmc",
+      "name": "👿文bo|XBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":{
+	      "分类url":"https://www.kaixinyes.com/show/{cateid}-{area}-{by}------{catePg}---{year}.html",
 	     "分类": "电影$1#电视剧$13#动漫$4#综艺$3"
 	      
      }},
