@@ -27,7 +27,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext":{
-	      "分类url":"https://www.kaixinyes.com/show/{cateid}-{calss}-{area}-{by}------{catePg}---{year}.html",
+	      "分类url":"https://www.kaixinyes.com/type/{cateid}-{area}-{by}------{catePg}---{year}.html",
 	     "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
 	      
      }},
