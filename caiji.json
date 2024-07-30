@@ -12,7 +12,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":{ "数组": "class=\"public-list-div public-list-bj\"&&</div",
+      "ext":{ "数组": "class=\"public-list-box\"&&</div",
         "图片": "data-src=\"&&\"",
         "标题": "title=\"&&\"",
         "链接": "href=\"&&\"",
