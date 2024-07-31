@@ -34,7 +34,7 @@
 	  
 	      
      }},
-
+{
 	"name": "豆瓣推荐",
 	"type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/dmbj/main/lib/drpy2.min.js",
 	"ext": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/厂长资源.js"},
