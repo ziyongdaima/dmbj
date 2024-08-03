@@ -163,7 +163,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":{"数组": "class=\video-content-item&&</div>",
+      "ext":{"数组": "class=\"video-content-item&&</div>",
 	      "分类url":"https://www.qingfengys.com/show/id/{cateId}/page/{catePg}/by/{by}/year/{year}.html",
 	     "分类": "电影$1#电视剧$13#动漫$4#综艺$3"
 	      
