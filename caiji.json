@@ -180,7 +180,7 @@
 	       "图片": "data-src=\"&&\"",
         "标题": "title=\"&&\"",
         "链接": "href=\"&&\"",
-	      "分类url":"https://zstv6.com/shem/{cateId}-{area}-{by}-{lang}-{letter}-{catePg}-{year}.html",
+	      "分类url":"https://zstv6.com/shem/{cateId}-{area}-{by}--{catePg}-{year}.html",
 	     "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
      }},
 	 {
