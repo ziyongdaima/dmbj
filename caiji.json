@@ -12,10 +12,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":{ "数组": "target=\"_blank\"&&</a",
-        "图片": "data-src=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
+      "ext":{ "数组": "target=\"public-list-box\"&&</div",
+      
 	      "分类url":"https://huale.tv/vodtype/{cateid}/area/{area}/page/{catePg}/year/{year}.html",
 	     "分类": "电影$1#连续剧$2#综艺$3#动漫$4"
 	      
