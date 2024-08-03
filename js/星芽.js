@@ -64,7 +64,7 @@ var rule = {
     VOD = {
             vod_name: data.title,
             vod_pic: data.cover_url,
-            vod_play_from: '球球啦',
+            vod_play_from: '专线',
             vod_play_url: urls.join('#')
         };
     }),
