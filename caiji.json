@@ -12,10 +12,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":{ "数组": "class=\"myui-vodlist__box\"&&</div",
+      "ext":{ 
       
-	      "分类url":"https://www.fujuyy.com/sptype/{cateid}-{area}-{by}-{calss}----{catepg}----{year}.html",
-	     "分类": "腐剧$20#电影$21#动漫$22#综艺$23"
+	      "分类url":"https://www.bkyb.net/vodshow/{cateid}-{area}-{by}-{calss}----{catepg}----{year}.html",
+	     "分类": "电影$1#连续剧$2#综艺$3#动漫$4#综艺$3"
 	      
      }},
 
