@@ -47,17 +47,7 @@
       "filterable": 1,
       "ext":"https://bitbucket.org/249886372/dmbj/raw/8dcdf4b8d29feda1de70214ccbbf5e21cd34cd3e/js/芒果视频.js"
     },
-        {
-      "key": "csp_jingpai",
-      "name": "♻️金牌追剧",
-      "type": 3,
-      "api": "csp_Jpys",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "https://bitbucket.org/249886372/ywj/raw/bfb242e25eb818757b583c8aba579247f7ff7660/jar/fan.txt",	
-      "changeable": 1
-    },	 
+      
 
       {
       "key": "nangua",
