@@ -47,40 +47,7 @@
       "filterable": 1,
       "ext":"https://bitbucket.org/249886372/dmbj/raw/8dcdf4b8d29feda1de70214ccbbf5e21cd34cd3e/js/芒果视频.js"
     },
-    {
-      "key": "csp_360",
-      "name": "🐜360追剧",
-      "type": 3,
-      "api": "https://bitbucket.org/249886372/dmbj/raw/8dcdf4b8d29feda1de70214ccbbf5e21cd34cd3e/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/249886372/dmbj/raw/8dcdf4b8d29feda1de70214ccbbf5e21cd34cd3e/js/360影视.js"
-    },
-    {
-      "key": "csp_sougou",
-      "name": "🎶搜狗追剧",
-      "type": 3,
-      "api": "https://bitbucket.org/249886372/dmbj/raw/8dcdf4b8d29feda1de70214ccbbf5e21cd34cd3e/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/249886372/dmbj/raw/8dcdf4b8d29feda1de70214ccbbf5e21cd34cd3e/js/caigou.js"
-    },
- 
- 
- 
-      {
-      "key": "火花资源",
-      "name": "🐭火花资源",
-      "type": 1,
-      "api": "http://cj.huohua.vip/api.php/provide/vod/at/json/",
-      "playerType": 1,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "categories": ["电影","连续剧","动漫","综艺"]
-    },
+   
  
       {
       "key": "csp_虎牙网",
