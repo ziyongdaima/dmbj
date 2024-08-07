@@ -31,11 +31,11 @@
      {
       "key": "csp_tengyun",
       "name": "🐧腾讯追剧",
-      "type": 3,
-      "api": "csp_Qtv",
+      "api": "https://bitbucket.org/249886372/dmbj/raw/8dcdf4b8d29feda1de70214ccbbf5e21cd34cd3e/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "https://bitbucket.org/249886372/dmbj/raw/8dcdf4b8d29feda1de70214ccbbf5e21cd34cd3e/js/tengxun.js"
     },
      {
       "key": "csp_mgtv",
@@ -47,7 +47,48 @@
       "filterable": 1,
       "ext":"https://bitbucket.org/249886372/dmbj/raw/8dcdf4b8d29feda1de70214ccbbf5e21cd34cd3e/js/芒果视频.js"
     },
-   
+        {
+      "key": "csp_jingpai",
+      "name": "♻️金牌追剧",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar": "https://bitbucket.org/249886372/ywj/raw/bfb242e25eb818757b583c8aba579247f7ff7660/jar/fan.txt",	
+      "changeable": 1
+    },	 
+
+      {
+      "key": "nangua",
+      "name": "🎃南瓜影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://bitbucket.org/249886372/ywj/raw/bfb242e25eb818757b583c8aba579247f7ff7660/api/%E5%8D%97%E7%93%9C.js"
+    }, 	 
+
+     {
+      "key": "csp_XYQHiker_民影视",
+      "name": "🧑🏻‍农‍民影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/249886372/ywj/raw/bfb242e25eb818757b583c8aba579247f7ff7660/XYQHiker/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json"
+    },	 
+
+       {
+      "key": "秒播短剧",
+      "name": "📡秒播短剧",
+      "type": 3,
+      "api": "csp_Wexduanjuvip",
+      "jar": "http://www.wya6.cn/tz/wyog.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },	 
  
       {
       "key": "csp_虎牙网",
@@ -60,8 +101,19 @@
       "ext":" https://www.gitlink.org.cn/api/LLwj/YWJ/raw/js/虎牙直播.js?ref=main"
     },
  
-
- 
+   
+       {
+      "key": "csp_蚂蚁",
+      "name": "🐭蚂蚁无广",
+      "type": 1,
+      "api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",
+      "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url=",
+      "filterable": 1,
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "categories": ["电影","剧集","综艺","动漫"]
+      },
       {
       "key": "csp_Bili资源",
       "name": "🐞哔哩资源",
@@ -84,8 +136,32 @@
       "ext": "https://bitbucket.org/249886372/dmbj/raw/8dcdf4b8d29feda1de70214ccbbf5e21cd34cd3e/json/音乐.json"
  
     },
+      {
+      "key": "木耳",
+      "name": "✌️️木耳资源",
+      "type": 1,
+      "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playurl": "https://player.heimuer.tv/index.html?url=",
+      "filterable": 1,
+      "playerType": 2,
+      "categories": ["动作片","喜剧片","科幻片","恐怖片","国产动漫",
+        "国产剧","国产综艺"]
+    },	 
  
- 
+     {
+      "key": "短剧",
+      "name": "📚短剧直连",
+      "type": 1,
+      "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playurl": "https://player.heimuer.tv/index.html?url=",
+      "filterable": 1,
+      "playerType": 2,
+      "categories": ["虐待恋短剧","逆袭短剧","重生短剧","穿越短剧","甜宠短剧"]
+    },
   
       {
       "key": "星芽短剧",
@@ -137,6 +213,11 @@
       "ext": {
         "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视",
           "mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua" ]}},
+	 {
+      "name": "mgtv",
+      "type": 1,
+      "url": "http://mgtv.ckflv.cn/?url="
+    },
 
       {
       "name": "米饭",
@@ -229,7 +310,7 @@
  
  
  
-"spider":"https://bitbucket.org/249886372/dmbj/raw/8dcdf4b8d29feda1de70214ccbbf5e21cd34cd3e/jar/DMpy.jar;md5;c435869db6a928f45df09b736d81f02f",
+"spider":"https://bitbucket.org/249886372/ywj/raw/bfb242e25eb818757b583c8aba579247f7ff7660/jar/DMx.jar",
  
  
  
