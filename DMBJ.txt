@@ -84,7 +84,7 @@ CCTV-2,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024075403.m3u8?key=txiptv&playl
 CCTV-3,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024068503.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024068503.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024078303.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078303.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024078403.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078403.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024078003.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078003.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024078003.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078003.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8?key=txiptv&playlive=1&authid=0#http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2022574303.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024072003.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024072003.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024078503.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078503.m3u8?key=txiptv&playlive=1&authid=0
