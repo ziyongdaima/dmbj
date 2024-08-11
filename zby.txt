@@ -5,7 +5,7 @@ CCTV-2,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024075403.m3u8?key=txiptv&playl
 CCTV-3,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024068503.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024068503.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024078303.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078303.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024078403.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078403.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024078003.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078003.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024078003.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078003.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8?key=txiptv&playlive=1&authid=0#http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2022574303.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024072003.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024072003.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024078503.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078503.m3u8?key=txiptv&playlive=1&authid=0
@@ -176,9 +176,4 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 黑龙江视,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024061003.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061003.m3u8?key=txiptv&playlive=1&authid=0
 中国教育,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8?key=txiptv&playlive=1&authid=0 
 
-电影轮番,#genre#
-YY-漫威,http://mmitv.top/test/douyu.php?id=6140589
-YY-恐怖,http://mmitv.top/test/douyu.php?id=1165374
-YY-哈利,http://mmitv.top/test/douyu.php?id=8814650
-YY-锤锤,http://mmitv.top/test/douyu.php?id=9018297
-YY-万万没想到,http://mmitv.top/test/douyu.php?id=9220456&u=382262817&cate
+
