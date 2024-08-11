@@ -148,7 +148,7 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
-龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+黑龙江视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 
 
 北京卫视,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024052703.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024052703.m3u8?key=txiptv&playlive=1&authid=0 
