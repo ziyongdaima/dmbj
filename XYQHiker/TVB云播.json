@@ -12,7 +12,7 @@
     //分类链接起始页码,禁止负数于合含小数点。
     "firstpage": "1",
     //分类链接,{cateId}是分类，{catePg}是页码,第一页没有页码的可以这样写 第二页链接[firstPage=第一页的链接]
-    "class_url": "http://www.tvyb03.com/vod/type/id/{cateId}/page/{catePg}.html",
+    "class_url": "http://www.tvyb09.com/vod/type/id/{cateId}/page/{catePg}.html",
     //分类名
     "class_name": "电影&电视剧&综艺&动漫&动作片&喜剧片&爱情片&科幻片&恐怖片&剧情片&战争片&国产剧&港台剧&日韩剧&欧美剧",
     //分类名替换词，替换词中有英文&的用两个中文＆＆代替
@@ -38,12 +38,12 @@
     //分类截取片单链接，截取前缀&&截取后缀
     "cat_url": "href=\"&&\"",  
     //分类片单链接补前缀  
-    "cat_prefix": "http://www.tvyb03.com",
+    "cat_prefix": "http://www.tvyb09.com",
     //分类片单链接补后缀
     "cat_suffix": "",
     
     //搜索链接，搜索关键字用{wd}表示，post请求的最后面加;post
-    "search_url": "http://www.tvyb03.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=50",
+    "search_url": "http://www.tvyb09.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=50",
     //搜索模式,0为json搜索，只支持列表在list数组里的，其它为网页截取。
     "search_mode": "0",
     //json图片
@@ -71,7 +71,7 @@
     //搜索片单链接，截取前缀&&截取后缀
     "sea_url": "href=\"&&\"",
     //搜索片单链接补前缀
-    "search_prefix": "http://www.tvyb03.com/vod/detail/id/",
+    "search_prefix": "http://www.tvyb09.com/vod/detail/id/",
     //搜索片单链接补后缀，这个一般json搜索的需要
     "search_suffix": ".html",
     //搜索副标题，截取前缀&&截取后缀
@@ -128,7 +128,7 @@
     //集数链接，截取前缀&&截取后缀
     "epi_url": "href=\"&&\"",
     //集数链接补前缀
-    "epiurl_prefix": "http://www.tvyb03.com",
+    "epiurl_prefix": "http://www.tvyb09.com",
     //集数链接补后缀
     "epiurl_suffix": "",
     //尝试分析macplayer链接，0否，1是
