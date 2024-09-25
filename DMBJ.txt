@@ -2,7 +2,7 @@
 
 CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
-CCTV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+
 CCTV-3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8?
 CCTV-5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
@@ -27,36 +27,6 @@ CCTV-6,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m
 CCTV-11,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8?
 CCTV-13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 
-
-
-CCTV-1,http://22725y284r.yicp.fun:9902/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://22725y284r.yicp.fun:9902/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://22725y284r.yicp.fun:9902/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4,http://22725y284r.yicp.fun:9902/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://22725y284r.yicp.fun:9902/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://22725y284r.yicp.fun:9902/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://22725y284r.yicp.fun:9902/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8,http://22725y284r.yicp.fun:9902/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9,http://22725y284r.yicp.fun:9902/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,http://22725y284r.yicp.fun:9902/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12,http://22725y284r.yicp.fun:9902/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14,http://22725y284r.yicp.fun:9902/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-CCTV-1,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv1
-CCTV-2,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv2
-CCTV-3,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv3
-CCTV-4,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv4
-CCTV-5,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv5
-CCTV-5+,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv5p
-CCTV-6,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv6
-CCTV-7,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv7
-CCTV-8,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv8
-CCTV-9,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv9
-CCTV-10,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv10
-CCTV-11,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv11
-CCTV-12,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv12
-CCTV-13,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv13
 
 
 
@@ -125,10 +95,7 @@ CCTV-13,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv13
 炫舞未来,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-香港凤凰,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-香港凤凰,https://epg.pw/stream/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8
+
 无线星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 
 寰宇新闻,http://v.189910.xyz:8900/live.m3u8?c=1
