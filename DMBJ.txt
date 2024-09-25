@@ -1,7 +1,7 @@
 央视频道,#genre#
 
 CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
+CCTV-2,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
 
 CCTV-3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8?
@@ -21,7 +21,7 @@ CCTV-16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
-CCTV-2,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
+
 CCTV-5+,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
 CCTV-6,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8
 CCTV-11,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8?
@@ -62,7 +62,8 @@ CCTV-13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
-黑龙江视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+黑龙江视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
+
 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8#http://219.159.147.195:9901/tsfile/live/1002_1.m3u8?key=txiptv
 
 
@@ -96,15 +97,12 @@ CCTV-13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 
-无线星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+
 
 寰宇新闻,http://v.189910.xyz:8900/live.m3u8?c=1
 中天新闻,http://v.189910.xyz:8900/live.m3u8?c=8
 AMC 电影,http://61.221.215.25:8800/hls/43/index.m3u8
 亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?
-
-1905国内,http://ygbh.live/1905.php?id=1905a
-1905国外,http://ygbh.live/1905.php?id=1905b
 
 
 中国教育,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8?key=txiptv&playlive=1&authid=0 
