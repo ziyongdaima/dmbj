@@ -114,6 +114,9 @@ CCTV-17,http://zhancheng.x3322.net:6699/live/1017/index.m3u8
 
 
 
+
+
+
 咪咕移动,#genre#
 
 动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
@@ -141,8 +144,7 @@ CCTV-17,http://zhancheng.x3322.net:6699/live/1017/index.m3u8
 
 
 
-寰宇新闻,http://v.189910.xyz:8900/live.m3u8?c=1
-中天新闻,http://v.189910.xyz:8900/live.m3u8?c=8
+
 AMC 电影,http://61.221.215.25:8800/hls/43/index.m3u8
 亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?
 
