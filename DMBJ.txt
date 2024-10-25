@@ -105,9 +105,7 @@ CCTV-17,http://zhancheng.x3322.net:6699/live/1017/index.m3u8
 黑龙江视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
 
 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8#http://219.159.147.195:9901/tsfile/live/1002_1.m3u8?key=txiptv
-广东珠江,http://zhancheng.x3322.net:6699/live/1053/index.m3u8
 
-星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
@@ -145,16 +143,9 @@ CCTV-17,http://zhancheng.x3322.net:6699/live/1017/index.m3u8
 
 
 
-AMC 电影,http://61.221.215.25:8800/hls/43/index.m3u8
-亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?
-
-粤语电影,https://pullhw.zhaoyangyang.cn/live/8726106.flv?auth_info=bcYvsjcYnJwU88dqIbbiBwra9HFKKwcZdcgQt0UH49Q%3D.6f59644a735244734930574579534c6a
-
-
-中国教育,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8?key=txiptv&playlive=1&authid=0 
 锤锤动漫,https://www.goodiptv.club/douyu/9018297
 大锤轮番,https://www.goodiptv.club/douyu/9220456
-
+陈翔六点半,https://al.flv.huya.com/src/1352054947-1352054947-5807031779760013312-2704233350-10057-A-0-1.flv
 
 
 CCTV-1,http://ygbh666.cn/aikmigu.php?id=cctv1
