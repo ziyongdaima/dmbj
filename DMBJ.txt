@@ -145,7 +145,7 @@ CCTV-17,http://zhancheng.x3322.net:6699/live/1017/index.m3u8
 
 锤锤动漫,https://www.goodiptv.club/douyu/9018297
 大锤轮番,https://www.goodiptv.club/douyu/9220456
-陈翔六点半,https://al.flv.huya.com/src/1352054947-1352054947-5807031779760013312-2704233350-10057-A-0-1.flv
+陈翔六点半,https://al.flv.huya.com/src/1352054947
 
 
 CCTV-1,http://ygbh666.cn/aikmigu.php?id=cctv1
