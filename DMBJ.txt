@@ -29,41 +29,6 @@ CCTV-13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 
 
 
-CCTV-1,http://123.52.87.69:52200/hls/1/index.m3u8
-CCTV-1,http://zhancheng.x3322.net:6699/live/1001/index.m3u8
-CCTV-2,http://123.52.87.69:52200/hls/2/index.m3u8
-CCTV-2,http://zhancheng.x3322.net:6699/live/1002/index.m3u8
-CCTV-3,http://123.52.87.69:52200/hls/3/index.m3u8
-CCTV-3,http://zhancheng.x3322.net:6699/live/1003/index.m3u8
-CCTV-4,http://123.52.87.69:52200/hls/4/index.m3u8
-CCTV-4,http://zhancheng.x3322.net:6699/live/1004/index.m3u8
-CCTV-5,http://123.52.87.69:52200/hls/5/index.m3u8
-CCTV-5,http://zhancheng.x3322.net:6699/live/1005/index.m3u8
-CCTV-5+,http://123.52.87.69:52200/hls/17/index.m3u8
-CCTV-5+,http://zhancheng.x3322.net:6699/live/1018/index.m3u8
-CCTV-6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-CCTV-7,http://123.52.87.69:52200/hls/7/index.m3u8
-CCTV-7,http://zhancheng.x3322.net:6699/live/1007/index.m3u8
-CCTV-8,http://123.52.87.69:52200/hls/8/index.m3u8
-CCTV-8,http://zhancheng.x3322.net:6699/live/1008/index.m3u8
-CCTV-9,http://123.52.87.69:52200/hls/9/index.m3u8
-CCTV-9,http://zhancheng.x3322.net:6699/live/1009/index.m3u8
-CCTV-10,http://123.52.87.69:52200/hls/10/index.m3u8
-CCTV-10,http://zhancheng.x3322.net:6699/live/1010/index.m3u8
-CCTV-11,http://123.52.87.69:52200/hls/11/index.m3u8
-CCTV-11,http://zhancheng.x3322.net:6699/live/1011/index.m3u8
-CCTV-12,http://123.52.87.69:52200/hls/12/index.m3u8
-CCTV-12,http://zhancheng.x3322.net:6699/live/1012/index.m3u8
-CCTV-13,http://zhancheng.x3322.net:6699/live/1013/index.m3u8
-CCTV-14,http://123.52.87.69:52200/hls/14/index.m3u8
-CCTV-14,http://zhancheng.x3322.net:6699/live/1014/index.m3u8
-CCTV-15,http://123.52.87.69:52200/hls/15/index.m3u8
-CCTV-15,http://zhancheng.x3322.net:6699/live/1015/index.m3u8
-CCTV-16,http://219.139.42.24:8001/hls/16/index.m3u8
-CCTV-16,http://zhancheng.x3322.net:6699/live/1016/index.m3u8
-CCTV-17,http://123.52.87.69:52200/hls/16/index.m3u8
-CCTV-17,http://zhancheng.x3322.net:6699/live/1017/index.m3u8
-
 
 
 
@@ -145,26 +110,7 @@ CCTV-17,http://zhancheng.x3322.net:6699/live/1017/index.m3u8
 
 锤锤动漫,https://www.goodiptv.club/douyu/9018297
 大锤轮番,https://www.goodiptv.club/douyu/9220456
-陈翔六点半,https://al.flv.huya.com/src/1352054947
 
-
-CCTV-1,http://ygbh666.cn/aikmigu.php?id=cctv1
-CCTV-2,http://ygbh666.cn/aikmigu.php?id=cctv2
-CCTV-3,http://ygbh666.cn/aikmigu.php?id=cctv3
-CCTV-4,http://ygbh666.cn/aikmigu.php?id=cctv4
-CCTV-5,http://ygbh666.cn/aikmigu.php?id=cctv5
-CCTV-5+,http://ygbh666.cn/aikmigu.php?id=cctv5p
-CCTV-6,http://ygbh666.cn/aikmigu.php?id=cctv6
-CCTV-7,http://ygbh666.cn/aikmigu.php?id=cctv7
-CCTV-8,http://ygbh666.cn/aikmigu.php?id=cctv8
-CCTV-9,http://ygbh666.cn/aikmigu.php?id=cctv9
-CCTV-10,http://ygbh666.cn/aikmigu.php?id=cctv10
-CCTV-11,http://ygbh666.cn/aikmigu.php?id=cctv11
-CCTV-12,http://ygbh666.cn/aikmigu.php?id=cctv12
-CCTV-13,http://ygbh666.cn/aikmigu.php?id=cctv13
-CCTV-14,http://ygbh666.cn/aikmigu.php?id=cctv14
-CCTV-15,http://ygbh666.cn/aikmigu.php?id=cctv15
-CCTV-17,http://ygbh666.cn/aikmigu.php?id=cctv17
 
 历年春晚,#genre#
 春晚1983,http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
