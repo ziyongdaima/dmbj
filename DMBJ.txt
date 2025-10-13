@@ -17,6 +17,9 @@ CCTV11,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m
 CCTV12,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226748/1.m3u8#http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8
 CCTV13,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8
 CCTV14,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226663/1.m3u8#http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3u8
+
+CCTV15,http://39.150.98.32:7799/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV16,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
 CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8#http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8
  
@@ -123,7 +126,6 @@ CCTV11,http://39.150.98.32:7799/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&au
 CCTV12,http://39.150.98.32:7799/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://39.150.98.32:7799/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://39.150.98.32:7799/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://39.150.98.32:7799/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://39.150.98.32:7799/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://120.196.235.42:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://39.150.98.32:7799/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
