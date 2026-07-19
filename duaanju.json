@@ -1,0 +1,153 @@
+{
+  "spider": "./DLjar/aowu.png",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "",
+      "playerType": 2,
+      "logo": "https://epg.iill.top/logo/{name}.png"
+    }
+  ],
+  "warningText": "主页刷新接口",
+  "sites": [
+
+ {
+      "key": "XY短剧",
+      "name": "📡星芽🔹短剧",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ziyongdaima/DM/refs/heads/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ziyongdaima/DM/refs/heads/main/js/星芽短剧.js"
+    },
+
+ {
+      "key": "QM",
+      "name": "🐱七猫🔹短剧",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ziyongdaima/DM/refs/heads/main/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ziyongdaima/DM/refs/heads/main/js/七猫短剧.js"
+    },
+
+{"key": "A","name": "🎲好看🔹短剧","key": "HHkk","type": 3,"api": "csp_HHkkAmns",
+  "searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1},
+
+{"key": "B","name": "♻️嗷嗚🔹漫剧", "key": "MjHggg","type": 3,"api": "csp_HgggAmns","searchable": 1,
+      "quickSearch": 1,"changeable": 1,"ext": "comic_series"},
+
+
+{"key": "C","name": "👻拜拜🔹短剧","key": "Bddj","type": 3,"api": "csp_BddjAmns",
+  "searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1},
+
+{"key": "D","name": "🐯嗷呜🔹短剧","key": "aodj","type": 3,"api": "csp_WgdjAmns",
+  "searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1,"ext": "short_play"},
+
+ { "name": "🎬星星🔹短剧","key": "XXdj","type": 3,"api": "csp_XydjAmns",
+      "searchable": 1,"quickSearch": 1,"changeable": 0,"genre": "shortdrama"},
+
+{"key": "E","name": "🥇河马🔹短剧",""key": "Hema","type": 3,"api": "csp_HemaAmns","searchable": 1,
+      "quickSearch": 1,"changeable": 0,"genre": "shortdrama"},
+ {
+      "key": "G",
+      "name": "💌小酷🔹短剧",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ziyongdaima/DM/refs/heads/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ziyongdaima/DM/refs/heads/main/js/小酷短剧.js"
+    }
+
+
+
+
+
+
+
+   
+  ],
+  "parses": [
+    {
+      "name": "解析聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "web聚合",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "西米",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "夜幕",
+      "type": 0,
+      "url": "https://www.yemu.xyz/v/d.php?url="
+    },
+    {
+      "name": "一线",
+      "type": 0,
+      "url": "https://bd.jx.cn/?url="
+    },
+    {
+      "name": "二线",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "8090",
+      "type": 0,
+      "url": "https://www.8090g.cn/?url="
+    },
+    {
+      "name": "m3u8",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    }
+  ],
+  "flags": [
+    "youku",
+    "优酷",
+    "优 酷",
+    "优酷视频",
+    "qq",
+    "腾讯",
+    "腾 讯",
+    "腾讯视频",
+    "iqiyi",
+    "qiyi",
+    "奇艺",
+    "爱奇艺",
+    "爱 奇 艺",
+    "m1905",
+    "xigua",
+    "letv",
+    "leshi",
+    "乐视",
+    "乐 视",
+    "sohu",
+    "搜狐",
+    "搜 狐",
+    "搜狐视频",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "芒果",
+    "imgo",
+    "芒果TV",
+    "芒 果 T V",
+    "bilibili",
+    "哔 哩",
+    "哔 哩 哔 哩"
+  ]
+}
